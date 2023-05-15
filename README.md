@@ -1,8 +1,8 @@
 # Currency Converter
-A program which converts a given amount from one currency to another one, using an
-[external API](https://open.er-api.com/v6/latest/USD)
+A program which converts a given amount from one currency to another one, using an [external API](https://open.er-api.com/v6/latest/USD)
 
 ## Usage
+
 
 ### Installation
 
