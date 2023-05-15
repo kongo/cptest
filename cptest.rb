@@ -1,5 +1,3 @@
-require 'net/http'
-require 'json'
 require './lib/currency_conversion'
 require './lib/open_er_api'
 
